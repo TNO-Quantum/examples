@@ -1,0 +1,2 @@
+matplotlib~=3.7.1
+tno.quantum.communication.qkd_key_rate==1.0.0
