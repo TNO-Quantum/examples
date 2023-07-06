@@ -1,6 +1,5 @@
 jupyter~=1.0.0
 matplotlib~=3.7.1
-scikit-learn~=1.2.1
 tno.quantum.ml.datasets~=1.2.1
 tno.quantum.ml.classifiers.vc~=2.0.2
 tno.quantum.communication.qkd_key_rate==1.0.0
