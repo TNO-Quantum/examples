@@ -6,6 +6,10 @@ TNO Quantum is dedicated to developing reusable software components for applying
 
 ## Content
 
+1. Variational Classifier
+   1. [Classification: demonstrates basic classifier usage.](examples/vc/classification.ipynb)
+   1. [Decision Boundary: demonstrates how to calculate the decision boundary.](examples/vc/decision_boundary.ipynb)
+   1. [Quantum Models: demonstrates how to use different models.](examples/vc/quantum_models.ipynb)
 1. Quantum Key-Rate
    1. [Number of pulses](examples/qkd_key_rate/example_number_pulses.py)
    1. [BB84 protocol](examples/qkd_key_rate/example_bb84_plot.py)
