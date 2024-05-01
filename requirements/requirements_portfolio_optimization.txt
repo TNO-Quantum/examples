@@ -1,0 +1,4 @@
+# Requirements for portfolio optimization
+jupyter~=1.0.0
+matplotlib~=3.7.1
+tno.quantum.problems.portfolio_optimization[quantum]==1.0.0
