@@ -41,7 +41,7 @@ d = finite_key_rate._extract_parameters(x)
 print(f"Intensity: {d['mu']}, key-rate: {rate}")
 
 assert rate == finite_key_rate.compute_rate(
-    mu,
+    d['mu'],
     attenuation=0.2,
     probability_basis_X=d["probability_basis_X"],
     probability_basis_Z=d["probability_basis_Z"],
