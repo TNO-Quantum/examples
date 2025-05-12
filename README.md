@@ -1,5 +1,12 @@
 # TNO Quantum: Examples
 
+
+---
+
+This repository is no longer maintained. Examples have been moved to the full toolbox documentation, which can be found [here](https://github.com/TNO-Quantum/documentation).
+
+---
+
 This repository contains elaborate examples for TNO Quantum software components.
 
 TNO Quantum is dedicated to developing reusable software components for applying current and near-term quantum technology. Our code base is use-case driven and contains fully-functional, self-contained software components, which can be used as building blocks to enable further development of quantum applications. Currently, the focus of TNO Quantum is on secure communication, optimization, simulation, and machine learning.
